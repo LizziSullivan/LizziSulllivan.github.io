@@ -1,0 +1,18 @@
+body {
+  background-color: powderblue
+}
+h1 {
+  color: blue;
+  font-family: Georgia;
+  font-size: 300%
+}
+h2 {
+  color: blue;
+  font-family: Georgia;
+  font-size: 150%
+}
+p {
+  color: blue;
+  font-family: monospace;
+  font-size: 100%
+}
